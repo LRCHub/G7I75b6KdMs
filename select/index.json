@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "我逢人 (Instrumental)",
   "base_artist": "Mrs. GREEN APPLE",
-  "createdAt": "2026-03-09T10:51:54.178619Z",
+  "createdAt": "2026-03-31T11:43:41.894011Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,15 @@
       "artist": "Mrs. GREEN APPLE",
       "has_synced": false,
       "path": "select/pl_01_我逢人_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "我逢人 (Instrumental)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/localdb_01_我逢人_(Instrumental)_Mrs._GREEN_APPLE.lrc",
+      "repo_name": "G7I75b6KdMs"
     }
   ]
 }
